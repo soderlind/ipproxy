@@ -16,7 +16,7 @@
     "start": "node ./server.js"
   },
   "dependencies": {
-    "express": "^4.17.2",
+    "express": "^4.17.3",
     "morgan": "^1.10.0",
     "nconf": "^0.11.3",
     "winston": "^3.5.1"
